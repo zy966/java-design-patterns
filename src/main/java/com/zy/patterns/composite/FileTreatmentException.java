@@ -1,4 +1,4 @@
-package com.zy.patterns.iterator.visitor;
+package com.zy.patterns.composite;
 
 public class FileTreatmentException extends RuntimeException {
 

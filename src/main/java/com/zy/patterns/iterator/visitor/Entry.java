@@ -1,6 +1,8 @@
 package com.zy.patterns.iterator.visitor;
 
 
+import com.zy.patterns.composite.FileTreatmentException;
+
 import java.util.Iterator;
 
 public abstract class Entry implements Element {

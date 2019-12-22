@@ -7,7 +7,7 @@ import org.junit.Test;
 public class ExpandConcreteAggregateTest {
 
     @Test
-    public void next1() {
+    public void next() {
         ExpandConcreteAggregate aggregate = new ExpandConcreteAggregate();
         aggregate.append("a");
         aggregate.append("b");
