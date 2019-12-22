@@ -1,4 +1,4 @@
-package com.zy.patterns.iterator.visitor;
+package com.zy.patterns.visitor;
 
 import org.apache.commons.lang3.StringUtils;
 

@@ -1,8 +1,5 @@
 package com.zy.patterns.visitor;
 
-import com.zy.patterns.iterator.visitor.Directory;
-import com.zy.patterns.iterator.visitor.File;
-import com.zy.patterns.iterator.visitor.ListVisitor;
 import org.junit.Test;
 
 public class ListVisitorTest {

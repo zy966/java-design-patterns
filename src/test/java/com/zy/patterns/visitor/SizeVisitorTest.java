@@ -1,7 +1,5 @@
 package com.zy.patterns.visitor;
 
-import com.zy.patterns.iterator.visitor.Directory;
-import com.zy.patterns.iterator.visitor.File;
 import org.junit.Test;
 
 public class SizeVisitorTest {

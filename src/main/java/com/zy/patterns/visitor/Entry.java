@@ -1,4 +1,4 @@
-package com.zy.patterns.iterator.visitor;
+package com.zy.patterns.visitor;
 
 
 import com.zy.patterns.composite.FileTreatmentException;

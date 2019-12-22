@@ -1,8 +1,5 @@
 package com.zy.patterns.visitor;
 
-import com.zy.patterns.iterator.visitor.Directory;
-import com.zy.patterns.iterator.visitor.File;
-import com.zy.patterns.iterator.visitor.FileFindVisitor;
 import org.junit.Test;
 
 import java.util.Iterator;
