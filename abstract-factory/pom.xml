@@ -8,9 +8,9 @@
         <artifactId>patterns</artifactId>
         <version>1.0.0</version>
     </parent>
-    <artifactId>chain</artifactId>
+    <artifactId>abstract-factory</artifactId>
 
-    <name>chain</name>
+    <name>abstract-factory</name>
 
     <dependencies>
         <!-- junit -->

@@ -24,6 +24,7 @@
         <module>template</module>
         <module>visitor</module>
         <module>chain</module>
+        <module>abstract-factory</module>
     </modules>
 
     <properties>
