@@ -25,6 +25,7 @@
         <module>visitor</module>
         <module>chain</module>
         <module>abstract-factory</module>
+        <module>facade</module>
     </modules>
 
     <properties>
