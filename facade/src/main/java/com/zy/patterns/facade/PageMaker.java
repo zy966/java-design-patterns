@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Properties;
 
+/**
+ * Facade角色
+ */
 public class PageMaker {
 
     private PageMaker() {
