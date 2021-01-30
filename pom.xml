@@ -28,6 +28,7 @@
         <module>facade</module>
         <module>mediator</module>
         <module>observer</module>
+        <module>memento</module>
     </modules>
 
     <properties>
